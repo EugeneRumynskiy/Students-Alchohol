@@ -25,9 +25,7 @@ def apicall():
         predictions = make_predictions(loaded_model, test)
         final_predictions = finalize_predictions(predictions)
 
-        # return make_response(final_predictions)
-        # what?!
-        return "Test"
+        return make_response(final_predictions)
 
 
 def load_model(model_name):
