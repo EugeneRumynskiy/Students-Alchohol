@@ -10,7 +10,7 @@ header = {'Content-Type': 'application/json', 'Accept': 'application/json'}
 
 """Making predictions for por students. It's not right, but just for example.
 """
-test_df = pd.read_csv('../data/student-mat.csv', sep=";")
+test_df = pd.read_csv('../data/student-por.csv', sep=";")
 #numeric_cols = ["age", 'Medu', "Fedu", "traveltime", "studytime", "failures",
 #                "famrel", "freetime", "goout", "Dalc", "Walc", "health", "absences", "G1", "G2"]
 

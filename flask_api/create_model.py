@@ -25,8 +25,6 @@ def build_and_train():
 
     target_col = "G3"
     x, y = df.drop(target_col, axis=1), df[target_col]
-    x_train, x_test, y_train, y_test = train_test_split(
-        x, y, test_size=0.1, random_state=42)
 
     # making pipeline
     regressor = RandomForestRegressor()
@@ -43,7 +41,7 @@ def build_and_train():
 
     # running grid search
     grid = GridSearchCV(pipe, param_grid=param_grid, cv=3)
-    grid.fit(x_train, y_train)
+    grid.fit(x, y)
 
     return grid
 

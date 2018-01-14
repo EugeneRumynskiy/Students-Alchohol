@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1469a019-15f5-47fe-94e0-cd346217bc64" name="Default" comment="-Test commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/flask_api/api_request_predictions.py" afterPath="$PROJECT_DIR$/flask_api/api_request_predictions.py" />
-      <change beforePath="$PROJECT_DIR$/flask_api/create_model.py" afterPath="$PROJECT_DIR$/flask_api/create_model.py" />
-      <change beforePath="$PROJECT_DIR$/flask_api/models/model_v1.pk" afterPath="$PROJECT_DIR$/flask_api/models/model_v1.pk" />
-      <change beforePath="$PROJECT_DIR$/flask_api/server.py" afterPath="$PROJECT_DIR$/flask_api/server.py" />
-      <change beforePath="$PROJECT_DIR$/prototyping/.ipynb_checkpoints/Tuning_Predictions_v2-checkpoint.ipynb" afterPath="$PROJECT_DIR$/prototyping/.ipynb_checkpoints/Tuning_Predictions_v2-checkpoint.ipynb" />
-      <change beforePath="$PROJECT_DIR$/prototyping/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/prototyping/Tuning_Predictions_v2.ipynb" afterPath="$PROJECT_DIR$/prototyping/Tuning_Predictions_v2.ipynb" />
-      <change beforePath="$PROJECT_DIR$/prototyping/Untitled.ipynb" afterPath="" />
-    </list>
+    <list default="true" id="1469a019-15f5-47fe-94e0-cd346217bc64" name="Default" comment="-Test commit" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +38,8 @@
       <file leaf-file-name="api_request_predictions.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flask_api/api_request_predictions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+            <state relative-caret-position="126">
+              <caret line="10" column="77" lean-forward="true" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
               <folding>
                 <element signature="e#17#28#0" expanded="true" />
               </folding>
@@ -357,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flask_api/api_request_predictions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        <state relative-caret-position="126">
+          <caret line="10" column="77" lean-forward="true" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
           <folding>
             <element signature="e#17#28#0" expanded="true" />
           </folding>
