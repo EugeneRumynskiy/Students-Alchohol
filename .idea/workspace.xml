@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="1469a019-15f5-47fe-94e0-cd346217bc64" name="Default" comment="-Test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/flask_api/server.py" afterPath="$PROJECT_DIR$/flask_api/server.py" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/flask_api/create_model.py" afterPath="$PROJECT_DIR$/flask_api/create_model.py" />
+      <change beforePath="$PROJECT_DIR$/prototyping/.ipynb_checkpoints/Saving_Basic_Model-checkpoint.ipynb" afterPath="$PROJECT_DIR$/prototyping/.ipynb_checkpoints/Saving_Basic_Model-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/prototyping/Dataset_description.ipynb" afterPath="$PROJECT_DIR$/prototyping/Dataset_description.ipynb" />
+      <change beforePath="$PROJECT_DIR$/prototyping/Saving_Basic_Model.ipynb" afterPath="$PROJECT_DIR$/prototyping/Saving_Basic_Model.ipynb" />
+      <change beforePath="$PROJECT_DIR$/prototyping/Tuning_Predictions.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/task.md" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,32 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Saving_Basic_Model.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prototyping/Saving_Basic_Model.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create_model.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="create_model.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flask_api/create_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="414">
+              <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flask_api/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state relative-caret-position="396">
+              <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -322,16 +317,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/create_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/flask_api/api_request_predictions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -352,11 +337,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flask_api/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state relative-caret-position="396">
+          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_api/create_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>

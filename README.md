@@ -27,7 +27,7 @@
 Туториал мне понравился подробностью и качеством кода. По итогам мы сможем запустить API локально. Хочется посмотреть как будет с облаком, поэтому я нашёл ещё одну статью на эту тему.
 
 
-###[Create a scikit-learn based prediction webapp using Flask and Heroku](https://xcitech.github.io/tutorials/heroku_tutorial/)
+### [Create a scikit-learn based prediction webapp using Flask and Heroku](https://xcitech.github.io/tutorials/heroku_tutorial/)
 	
 	Roadmap:
 	1. Create the Model in Python using Scikit-learn
